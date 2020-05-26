@@ -1,0 +1,23 @@
+{
+  "name": "promise-with-timer",
+  "version": "1.0.0",
+  "description": "promise with cancel method and timer",
+  "main": "PromiseWithTimer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StetsD/promise-with-timer.git"
+  },
+  "keywords": [
+    "promise",
+    "timer"
+  ],
+  "author": "StetsD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StetsD/promise-with-timer/issues"
+  },
+  "homepage": "https://github.com/StetsD/promise-with-timer#readme"
+}
